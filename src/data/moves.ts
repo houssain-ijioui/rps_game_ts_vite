@@ -1,0 +1,1 @@
+export const moves: Array<string> = ["Rock", "Paper", "Scissors"];
